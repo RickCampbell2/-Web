@@ -1,0 +1,33 @@
+body {
+  font-family: Arial;
+  background: #f0f0f0;
+}
+
+.container {
+  background: white;
+
+  width: 400px;
+
+  margin: auto;
+
+  padding: 20px;
+
+  margin-top: 40px;
+
+  border-radius: 10px;
+}
+
+#question-image{
+
+  max-width: 300px;
+
+  max-height: 300px;
+
+  width: auto;
+
+  height: auto;
+
+  display: block;
+
+  margin: 20px auto;
+}

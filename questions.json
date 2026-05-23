@@ -1,0 +1,378 @@
+[
+    {
+    
+    "id": 1,
+
+    "pregunta": "この姿勢(ポーズ)を何という？",
+
+    "imagen": "images/q1.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+      "解剖学的正位",
+      "生理学的正位",
+      "薬理学的正位"
+    ],
+
+    "correctas": [
+      "解剖学的正位"
+    ]
+  },
+  {
+    
+    "id": 2,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q2.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+      "胸部",
+      "腹部",
+      "背部",
+      "腰部",
+      "殿部"
+    ],
+
+    "correctas": [
+      "背部"
+    ]
+  },
+  {
+    
+    "id": 3,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q3.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+      "胸部",
+      "腹部",
+      "背部",
+      "腰部",
+      "殿部"
+    ],
+
+    "correctas": [
+      "殿部"
+    ]
+  },
+    {
+    
+    "id": 4,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q4.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+      "上肢",
+      "下肢",
+      "背部",
+      "腰部",
+      "殿部"
+    ],
+
+    "correctas": [
+      "上肢"
+    ]
+  },
+     {
+    
+    "id": 5,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q5.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+      "上肢",
+      "下肢",
+      "背部",
+      "腰部",
+      "殿部"
+    ],
+
+    "correctas": [
+      "下肢"
+    ]
+  },
+  {
+    
+    "id": 6,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q6.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"上腕","前腕","手根","手掌","手背"
+    ],
+
+    "correctas": [
+      "上腕"
+    ]
+  },
+    {
+    
+    "id": 7,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q7.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"上腕","前腕","手根","手掌","手背"
+    ],
+
+    "correctas": [
+      "前腕"
+    ]
+  },
+      {
+    
+    "id": 8,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q8.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"大腿","下腿","足根","足背","足底"
+    ],
+
+    "correctas": [
+      "大腿"
+    ]
+  },
+       {
+    
+    "id": 9,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q9.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"大腿","下腿","足根","足背","足底"
+    ],
+
+    "correctas": [
+      "下腿"
+    ]
+  },
+  {
+    
+    "id": 10,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q10.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"前正中線","鎖骨中線","胸骨角平面","肋下線","胸骨線"
+    ],
+
+    "correctas": [
+      "前正中線"
+    ]
+  },
+    {
+    
+    "id": 11,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q11.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"前正中線","鎖骨中線","胸骨角平面","肋下線","胸骨線"
+    ],
+
+    "correctas": [
+      "鎖骨中線"
+    ]
+  },
+      {
+    
+    "id": 12,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q12.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"正中面","前頭面","矢状面","水平面","近位"
+    ],
+
+    "correctas": [
+      "正中面"
+    ]
+  },
+        {
+    
+    "id": 13,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q13.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"正中面","前頭面","矢状面","水平面","近位"
+    ],
+
+    "correctas": [
+      "矢状面"
+    ]
+  },
+          {
+    
+    "id": 14,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q14.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"正中面","前頭面","矢状面","水平面","近位"
+    ],
+
+    "correctas": [
+      "前頭面"
+    ]
+  },
+            {
+    
+    "id": 15,
+
+    "pregunta": "矢印で示した部位の名称は？",
+
+    "imagen": "images/q15.png",
+
+    "seleccionar": 1,
+
+    "opciones": [
+"正中面","前頭面","矢状面","水平面","近位"
+    ],
+
+    "correctas": [
+      "前頭面"
+    ]
+  },
+
+  {
+    
+    "id": 31,
+
+    "pregunta": "ミトコンドリアの機能はどれか?(2つ選択)",
+
+    "imagen": "",
+
+    "seleccionar": 2,
+
+    "opciones": [
+      "エネルギー産生",
+      "タンパク質への糖の付加",
+      "不要物の消化·分解",
+      "タンパク質の合成",
+      "ATPの産生"
+    ],
+
+    "correctas": [
+      "エネルギー産生", "ATPの産生"
+    ]
+  },
+
+  {
+    "id": 32,
+
+    "pregunta": "リボソームの機能はどれか?",
+
+    "imagen": "",
+
+    "seleccionar": 1,
+
+    "opciones": [
+      "エネルギー産生",
+      "タンパク質への糖の付加",
+      "不要物の消化·分解",
+      "タンパク質の合成",
+      "ATPの産生"
+    ],
+
+    "correctas": [
+      "タンパク質の合成"
+    ]
+  },
+
+  {
+    "id": 33,
+
+    "pregunta": "ライソゾーム機能はどれか?",
+
+    "imagen": "",
+
+    "seleccionar": 1,
+
+    "opciones": [
+      "エネルギー産生",
+      "タンパク質への糖の付加",
+      "不要物の消化·分解",
+      "タンパク質の合成",
+      "ATPの産生"
+    ],
+
+    "correctas": [
+      "不要物の消化·分解"
+    ]
+  },
+    {
+    "id": 36,
+
+    "pregunta": "細胞周期のサイクルで正しいのはどれか",
+
+    "imagen": "",
+
+    "seleccionar": 1,
+
+    "opciones": [
+      "G1期 -> G2期 -> S期 -> M期",
+      "G1期 -> S期 -> G2期 -> M期",
+      "G1期 -> M期 -> G2期 -> S期",
+      "G1期 -> S期 -> M期 -> G2期",
+      "G1期 -> M期 -> S期 -> G2期"
+    ],
+
+    "correctas": [
+      "G1期 -> S期 -> G2期 -> M期"
+    ]
+  }
+]
