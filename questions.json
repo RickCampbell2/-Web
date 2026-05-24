@@ -1543,95 +1543,109 @@
     "消化器系"
   ]
 }, {
-    "number": 76,
+    "id": 76,
+    "pregunta": "血液、リンパを全身に回す器官系はどれか?",
     "imagen": "",
-    "question": "血液、リンパを全身に回す器官系はどれか?",
-    "options": {
+    "seleccionar": 1,
+    "opciones": {
       "1": "感覚器系",
       "2": "循環器系",
       "3": "呼吸器系",
       "4": "消化器系",
       "5": "内分泌系"
     },
-    "opciones": ["循環器系"]
+    "correctas": ["循環器系"]
   },{
-    "number": 77,
+    "id": 77,
+    "pregunta": "酸素を取り入れ、二酸化炭素を排出する器官系はどれか?",
     "imagen": "",
-    "question": "酸素を取り入れ、二酸化炭素を排出する器官系はどれか?",
-    "options": {
+    
+    "seleccionar": 1,
+    "opciones": {
       "1": "感覚器系",
       "2": "循環器系",
       "3": "呼吸器系",
       "4": "消化器系",
       "5": "内分泌系"
     },
-    "answer": ["呼吸器系"]
+    "correctas": ["呼吸器系"]
   },
   {
-    "number": 78,
+    "id": 78,
+    "pregunta": "ホルモンを分泌する器官系はどれか?",
     "imagen": "",
-    "question": "ホルモンを分泌する器官系はどれか?",
-    "options": {
+    "seleccionar": 1,
+    "opciones": {
       "1": "感覚器系",
       "2": "循環器系",
       "3": "呼吸器系",
       "4": "消化器系",
       "5": "内分泌系"
     },
-    "answer": ["内分泌系"]
+    "correctas": ["内分泌系"]
   },{
-    "number": 79,
-    "imagen": "",
-    "question": "血中の老廃物を排泄する器官系はどれか?",
-    "options": {
+    "id": 79,
+    "pregunta": "血中の老廃物を排泄する器官系はどれか?",
+     "imagen": "",
+    "seleccionar": 1,
+   
+    
+    "opciones": {
       "1": "感覚器系",
       "2": "生殖器系",
       "3": "泌尿器系",
       "4": "消化器系",
       "5": "内分泌系"
     },
-    "answer": ["泌尿器系"]
+    "correctas": ["泌尿器系"]
   },
    {
-    "number": 80,
+    "id": 80,
+    "pregunta": "矢印で示した体腔は何か?",
     "imagen": "images/q80.png",
-    "question": "矢印で示した体腔は何か?",
     
-    "options": {
+    "seleccionar": 1,
+    
+    "opciones": {
       "1": "頭蓋腔",
       "2": "脊柱管",
       "3": "胸腔",
       "4": "腹腔"
-    },"answer": ["頭蓋腔"]
+    },"correctas": ["頭蓋腔"]
   },{
-    "number": 81,
+    "id": 81,
     "imagen": "images/q81.png",
-    "question": "矢印で示した体腔は何か?",
+    "pregunta": "矢印で示した体腔は何か?",
+    "seleccionar": 1,
     
-    "options": {
+    "opciones": {
       "1": "頭蓋腔",
       "2": "脊柱管",
       "3": "胸腔",
       "4": "腹腔"
-    },"answer": ["脊柱管"]
+    },"correctas": ["脊柱管"]
   },{
-    "number": 82,
-    "question": "矢印で示した体腔は何か?",
-    "options": {
+    "id": 82,
+    "pregunta": "矢印で示した体腔は何か?",
+    "imagen": "",
+    "seleccionar": 1,
+    "opciones": {
       "1": "頭蓋腔",
       "2": "脊柱管",
       "3": "胸腔",
       "4": "腹腔"
-    },"answer": ["胸腔"]
+    },"correctas": ["胸腔"]
   },{
-    "number": 83,
-    "question": "矢印で示した体腔は何か?",
-    "options": {
+    "id": 83,
+    "pregunta": "矢印で示した体腔は何か?",
+    "imagen": "",
+    "seleccionar": 1,
+    "opciones": {
       "1": "頭蓋腔",
       "2": "脊柱管",
       "3": "胸腔",
       "4": "腹腔"
-    },"answer": ["腹腔"]
+    },"correctas": ["腹腔"]
   }
 
 ]
