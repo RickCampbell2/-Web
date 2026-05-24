@@ -13,6 +13,8 @@ async function loadQuestions() {
 }
 // mostrar pregunta
 function showQuestion() {
+  //const max = 60;
+  //const min = 15;
     document.getElementById("result")
   .textContent = "";
 
@@ -22,7 +24,10 @@ function showQuestion() {
 do {
 
   randomIndex =
-    Math.floor(Math.random() * questions.length);
+    Math.floor(Math.random() * questions.length); //チェンジの前
+    
+
+    //Math.floor(Math.random() * (max - min)+min);
 
 } while (
   questions[randomIndex].id === previousQuestionId
