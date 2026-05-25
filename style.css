@@ -31,3 +31,14 @@ body {
 
   margin: 20px auto;
 }
+#range-container {
+
+  margin-bottom: 20px;
+
+  padding: 10px;
+
+  border: 1px solid #ccc;
+
+  border-radius: 10px;
+
+}

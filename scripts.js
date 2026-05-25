@@ -2,6 +2,61 @@ let questions = [];
 
 let currentQuestion;
 let previousQuestionId = null;
+let minQuestion = 1;
+let maxQuestion = 210;
+
+const minRange =
+  document.getElementById("min-range");
+
+const maxRange =
+  document.getElementById("max-range");
+
+minRange.addEventListener("input", () => {
+
+  minQuestion = Number(minRange.value);
+
+  document.getElementById("min-value")
+    .textContent = minQuestion;
+
+
+
+  // evitar min > max
+  if (minQuestion > maxQuestion) {
+
+    maxQuestion = minQuestion;
+
+    maxRange.value = maxQuestion;
+
+    document.getElementById("max-value")
+      .textContent = maxQuestion;
+  }
+
+});
+
+maxRange.addEventListener("input", () => {
+
+  maxQuestion = Number(maxRange.value);
+
+  document.getElementById("max-value")
+    .textContent = maxQuestion;
+
+
+
+  // evitar max < min
+  if (maxQuestion < minQuestion) {
+
+    minQuestion = maxQuestion;
+
+    minRange.value = minQuestion;
+
+    document.getElementById("min-value")
+      .textContent = minQuestion;
+  }
+
+});  
+
+
+//load question
 
 async function loadQuestions() {
 
@@ -13,29 +68,51 @@ async function loadQuestions() {
 }
 // mostrar pregunta
 function showQuestion() {
-  //const max = 60;
-  //const min = 15;
+
     document.getElementById("result")
   .textContent = "";
 
-  // elegir random
-  let randomIndex;
+// filtrar preguntas por rango
+
+const filteredQuestions =
+
+  questions.filter(q => {
+
+    return q.id >= minQuestion
+      && q.id <= maxQuestion;
+
+  });
+
+
+
+// elegir random dentro del rango
+
+let randomIndex;
 
 do {
 
-  randomIndex =
-    Math.floor(Math.random() * questions.length); //チェンジの前
-    
+  randomIndex = Math.floor(
 
-    //Math.floor(Math.random() * (max - min)+min);
+    Math.random() * filteredQuestions.length
+
+  );
 
 } while (
-  questions[randomIndex].id === previousQuestionId
+
+  filteredQuestions[randomIndex].id
+  === previousQuestionId
+
 );
 
-currentQuestion = questions[randomIndex];
 
-previousQuestionId = currentQuestion.id;
+
+currentQuestion =
+  filteredQuestions[randomIndex];
+
+
+
+previousQuestionId =
+  currentQuestion.id;
 
 
 
@@ -191,8 +268,5 @@ document.getElementById("next-btn")
 
 // iniciar
 loadQuestions();
-
-
-
 // iniciar
 loadQuestions();
