@@ -1648,6 +1648,232 @@
       "胸腔",
     "腹腔"
     ],"correctas": ["腹腔"]
-  }
+  },
+  {
+    "id": 84,
+    "pregunta": "脳が入るのはどれか?",
+    "imagen": "",
+    "seleccionar": 1,
+    "opciones": [
+     "頭蓋腔",
+      "脊柱管",
+      "胸腔",
+    "腹腔"
+    ],"correctas": ["頭蓋腔"]
+  },
+  {
+    "id": 85,
+    "pregunta": "脊髄が入るのはどれか?",
+    "imagen": "",
+    "seleccionar": 1,
+    "opciones": [
+     "頭蓋腔",
+      "脊柱管",
+      "胸腔",
+    "腹腔"
+    ],"correctas": ["脊柱管"]
+  },
+  {
+    "id": 86,
+    "pregunta": "胸腔と腹腔を分けているのはどれか?",
+    "imagen": "",
+    "seleccionar": 1,
+    "opciones": [
+      "腹膜",
+      "胸膜",
+       "横隔膜"
+    ],"correctas": ["腹膜"]
+  },
+  {
+    "id": 87,
+    "pregunta": "漿膜の上皮はどれか?",
+    "imagen": "",
+    "seleccionar": 1,
+    "opciones": [
+     "単層扁平上皮",
+      "重層扁平上皮",
+      "単層円柱上皮",
+    "移行上皮"
+    ],"correctas": [" 単層扁平上皮"]
+  },
+  {
+    "id": 88,
+    "pregunta": "矢印で示した部位の名称は?",
+    "imagen": "images/q88.png",
+    "seleccionar": 1,
+    "opciones": [
+      "横隔膜",
+      "間膜",
+       "漿膜腔"
+    ],"correctas": ["腹腔"]
+  },
+  {
+    "id": 89,
+    "pregunta": "矢印で示した部位の名称は?",
+    "imagen": "images/q89.png",
+    "seleccionar": 1,
+    "opciones": [
+      "横隔膜",
+      "間膜",
+       "漿膜腔"
+    ],"correctas": ["漿膜腔"]
+  },
+  {
+    "id": 90,
+    "pregunta": "漿膜が2重になる部分を何というか?",
+    "imagen": "",
+    "seleccionar": 1,
+    "opciones": [
+      "胸膜",
+      "腹膜",
+       "間膜",
+       "胸膜腔",
+       "腹膜腔"
+    ],"correctas": ["間膜"]
+  },
+  {
+    "id": 91,
+    "pregunta": "胸腔と腹腔を分けているのはどれか?",
+    "imagen": "images/q83.png",
+    "seleccionar": 1,
+    "opciones": [
+     "頭蓋腔",
+      "脊柱管",
+      "胸腔",
+    "腹腔"
+    ],"correctas": ["腹腔"]
+  },
+  { "id": 91, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q91.png","seleccionar": 1, "opciones": ["口腔", "咽頭", "食道", "胃", "十二指腸"], "correcta": "口腔" },
+  { "id": 92, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q92.png","seleccionar": 1, "opciones": ["口腔", "咽頭", "食道", "胃", "十二指腸"], "correcta": "咽頭" },
+  { "id": 93, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q93.png", "seleccionar": 1,"opciones": ["口腔", "咽頭", "食道", "胃", "十二指腸"], "correcta": "食道" },
+  { "id": 94, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q94.png","seleccionar": 1, "opciones": ["食道", "胃", "十二指腸", "空腸", "回腸"], "correcta": "胃" },
+  { "id": 95, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q95.png", "seleccionar": 1,"opciones": ["食道", "胃", "十二指腸", "空腸", "回腸"], "correcta": "十二指腸" },
+ { "id": 96, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q96.png", "seleccionar": 1, "opciones": ["食道", "胃", "十二指腸", "空腸", "回腸"], "correcta": "空腸" },
+ { "id": 97, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q97.png","seleccionar": 1, "opciones": ["食道", "胃", "十二指腸", "空腸", "回腸"], "correcta": "回腸" },
+ { "id": 98, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q98.png", "seleccionar": 1,"opciones": ["盲腸", "虫垂", "上行結腸", "横行結腸", "下行結腸"], "correcta": "盲腸" },
+  { "id": 99, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q99.png", "seleccionar": 1,"opciones": ["盲腸", "虫垂", "上行結腸", "横行結腸", "下行結腸"], "correcta": "虫垂" },
+  { "id": 100, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q100.png","seleccionar": 1, "opciones": ["盲腸", "虫垂", "上行結腸", "横行結腸", "下行結腸"], "correcta": "上行結腸" },
+   { "id": 101, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q101.png","seleccionar": 1, "opciones": ["盲腸", "虫垂", "上行結腸", "横行結腸", "下行結腸"], "correcta": "横行結腸" },
+  { "id": 102, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q102.png", "seleccionar": 1,"opciones": ["横行結腸", "下行結腸", "S状結腸", "直腸", "肛門"], "correcta": "下行結腸" },
+  { "id": 103, "pregunta": "矢印で示した部位の名称は？","imagen": "images/q103.png", "seleccionar": 1,"opciones": ["横行結腸", "下行結腸", "S状結腸", "直腸", "肛門"], "correcta": "S状結腸" },
+   { "id": 104, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q104.png","seleccionar": 1,"opciones": ["横行結腸", "下行結腸", "S状結腸", "直腸", "肛門"], "correcta": "直腸" },
+ { "id": 105, "pregunta": "口腔から肛門への向きで正しい順で並んでいるのはどれか？", "imagen": "images/q105.png" ,"seleccionar": 1,"opciones": ["A→B→D→E→C", "A→B→E→C→D", "E→A→B→C→D", "E→A→B→D→C", "C→D→E→A→B"], "correcta": "E→A→B→D→C" },
+ { "id": 106, "pregunta": "口腔から肛門への向きで正しい順で並んでいるのはどれか？", "imagen": "images/q106.png", "seleccionar": 1, "opciones": ["A→B→D→E→C","A→B→E→C→D", "E→A→B→C→D", "E→A→B→D→C", "C→D→E→A→B"], "correcta": "A→B→D→E→C" },
+ { "id": 107, "pregunta": "口腔から肛門への向きで正しい順で並んでいるのはどれか？", "imagen": "images/q107.png", "seleccionar": 1, "opciones": ["A→B→D→E→C", "A→B→E→C→D", "E→A→B→C→D", "E→A→B→D→C", "C→D→A→E→B"], "correcta": "C→D→A→E→B" },
+ { "id": 108, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q108.png", "seleccionar": 1, "opciones": ["腎臓", "肝臓", "胆嚢", "膵臓", "脾臓"], "correcta": "肝臓" } ,
+  { "id": 109, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q109.png", "seleccionar": 1, "opciones": ["腎臓", "肝臓", "胆嚢", "膵臓", "脾臓"], "correcta": "膵臓" },
+  { "id": 110, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q110.png", "seleccionar": 1, "opciones": ["腎臓", "肝臓", "胆嚢", "膵臓", "脾臓"], "correcta": "胆嚢" },
+   { "id": 111, "pregunta": "食べ物を咀嚼して破壊し，唾液と混ぜ合わせる部位は？", "imagen": "", "seleccionar": 1, "opciones": ["口腔", "咽頭", "食道", "胃", "十二指腸"], "correcta": "口腔" },
+     { "id": 112, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q112.png", "seleccionar": 1, "opciones": ["舌", "口蓋帆", "口蓋垂", "口蓋扁桃", "口腔前庭"], "correcta": "口蓋垂" },
+       { "id": 113, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q113.png", "seleccionar": 1, "opciones": ["舌", "口蓋帆", "口蓋垂", "口蓋扁桃", "口腔前庭"], "correcta": "口蓋扁桃" },
+  { "id": 114, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q114.png", "seleccionar": 1, "opciones": ["歯根", "歯冠", "舌根", "舌体", "舌尖"], "correcta": "歯冠" },
+   { "id": 115, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q115.png", "seleccionar": 1, "opciones": ["歯根", "歯冠", "舌根", "舌体", "舌尖"], "correcta": "歯根" },
+  { "id": 116, "pregunta": "歯冠部にあって，人体で最も硬い組織を何というか？", "imagen": "", "seleccionar": 1, "opciones": ["エナメル質", "ゾウゲ質", "セメント質"], "correcta": "エナメル質" },
+{ "id": 117, "pregunta": "乳歯と永久歯の本数で正しいのはどれか？", "imagen": "", "seleccionar": 1, "opciones": ["乳歯：16本，永久歯：28本", "乳歯：20本，永久歯：32本", "乳歯：26本，永久歯：40本"], "correcta": "乳歯：20本，永久歯：32本" },
+ { "id": 118, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q118.png", "seleccionar": 1, "opciones": ["舌尖", "舌体", "舌根", "舌扁桃"], "correcta": "舌尖" },
+  { "id": 119, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q119.png", "seleccionar": 1, "opciones": ["舌尖", "舌体", "舌根", "舌扁桃"], "correcta": "舌体" },
+  { "id": 120, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q120.png", "seleccionar": 1, "opciones": ["舌尖", "舌体", "舌根", "舌扁桃"], "correcta": "舌根" },
+
+
+  { "id": 121, "pregunta": "味覚を感知する味細胞が存在する感覚装置はどれか？", "imagen": "", "seleccionar": 1, "opciones": ["頚動脈小体", "圧受容器", "味蕾"], "correcta": "味蕾" },
+  { "id": 122, "pregunta": "味蕾があるのはどれか？（３つ選択）", "imagen": "", "seleccionar": 3, "opciones": ["糸状乳頭", "茸状乳頭", "葉状乳頭", "有郭乳頭"], "correcta": ["茸状乳頭", "葉状乳頭", "有郭乳頭"] },
+  { "id": 123, "pregunta": "大唾液腺はどれか？（３つ選択）", "imagen": "", "seleccionar": 3, "opciones": ["耳下腺", "顎下腺", "舌下腺", "甲状腺", "前立腺"], "correcta": ["耳下腺", "顎下腺", "舌下腺"] },
+  { "id": 124, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q124.png", "seleccionar": 1, "opciones": ["耳下腺", "顎下腺", "舌下腺", "甲状腺", "前立腺"], "correcta": "舌下腺" },
+  { "id": 125, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q125.png", "seleccionar": 1, "opciones": ["耳下腺", "顎下腺", "舌下腺", "甲状腺", "前立腺"], "correcta": "耳下腺" },
+  { "id": 126, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q126.png", "seleccionar": 1, "opciones": ["耳下腺", "顎下腺", "舌下腺", "甲状腺", "前立腺"], "correcta": "顎下腺" },
+  { "id": 127, "pregunta": "口腔と食道をつなぐのは？", "imagen": "", "seleccionar": 1, "opciones": ["胃", "咽頭", "鼻腔", "喉頭", "気管"], "correcta": "咽頭" },
+  { "id": 128, "pregunta": "咽頭と胃をつなぐのは？", "imagen": "", "seleccionar": 1, "opciones": ["口腔", "咽頭", "鼻腔", "食道", "気管"], "correcta": "食道" },
+  { "id": 129, "pregunta": "矢印で示した器官の名称は？", "imagen": "images/q129.png", "seleccionar": 1, "opciones": ["咽頭", "食道", "胃", "十二指腸", "空腸"], "correcta": "食道" },
+  { "id": 130, "pregunta": "食道の生理的狭窄部（せまい場所）はどれか？（３つ選択）", "imagen": "", "seleccionar": 3, "opciones": ["食道起始部", "気管分岐部", "気管の後ろ", "横隔膜貫通部", "大動脈の横"], "correcta": ["食道起始部", "気管分岐部", "横隔膜貫通部"] },
+  { "id": 131, "pregunta": "食道の上皮組織はどれか？", "imagen": "", "seleccionar": 1, "opciones": ["単層扁平上皮", "重層扁平上皮", "単層円柱上皮", "移行上皮"], "correcta": "重層扁平上皮" },
+  { "id": 132, "pregunta": "一番前（腹側）に位置するのはどれか？", "imagen": "", "seleccionar": 1, "opciones": ["食道", "気管", "椎骨"], "correcta": "気管" },
+  { "id": 133, "pregunta": "矢印で示した器官の名称は？", "imagen": "images/q133.png", "seleccionar": 1, "opciones": ["咽頭", "食道", "胃", "十二指腸", "空腸"], "correcta": "胃" },
+  { "id": 134, "pregunta": "胃の働きはどれか？（４つ選択）", "imagen": "", "seleccionar": 4, "opciones": ["食物の一時貯蔵", "胃酸による殺菌", "ペプシンによる消化", "食物の粥状化", "消化物の吸収"], "correcta": ["食物の一時貯蔵", "胃酸による殺菌", "ペプシンによる消化", "食物の粥状化"] },
+  { "id": 135, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q135.png", "seleccionar": 1, "opciones": ["噴門", "幽門", "胃底", "胃体", "大弯"], "correcta": "噴門" },
+
+  
+  { "id": 136, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q136.png", "seleccionar": 1, "opciones": ["噴門", "幽門", "胃底", "胃体", "大弯"], "correcta": "胃底" },
+  { "id": 137, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q137.png", "seleccionar": 1, "opciones": ["噴門", "幽門", "胃底", "胃体", "大弯"], "correcta": "胃体" },
+  { "id": 138, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q138.png", "seleccionar": 1, "opciones": ["噴門", "幽門", "胃底", "胃体", "大弯"], "correcta": "幽門" },
+  { "id": 139, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q139.png", "seleccionar": 1, "opciones": ["噴門", "幽門", "胃底", "小弯", "大弯"], "correcta": "大弯" },
+  { "id": 140, "pregunta": "胃・腸の上皮組織はどれか？", "imagen": "images/q140.png", "seleccionar": 1, "opciones": ["単層扁平上皮", "重層扁平上皮", "単層円柱上皮", "移行上皮"], "correcta": "単層円柱上皮" },
+  { "id": 141, "pregunta": "一番前（腹側）に位置するのはどれか？", "imagen": "images/q141.png", "seleccionar": 1, "opciones": ["胃", "膵臓", "腎臓"], "correcta": "胃" },
+  { "id": 142, "pregunta": "胃の主細胞から分泌されるのはどれか？", "imagen": "images/q142.png", "seleccionar": 1, "opciones": ["ペプシノーゲン", "塩酸", "粘液", "ペプシン"], "correcta": "ペプシノーゲン" },
+  { "id": 143, "pregunta": "胃の壁細胞から分泌されるのはどれか？", "imagen": "images/q143.png", "seleccionar": 1, "opciones": ["ペプシノーゲン", "塩酸", "粘液", "ペプシン"], "correcta": "塩酸" },
+  { "id": 144, "pregunta": "胃の副細胞から分泌されるのはどれか？", "imagen": "images/q144.png", "seleccionar": 1, "opciones": ["ペプシノーゲン", "塩酸", "粘液", "ペプシン"], "correcta": "粘液" },
+  { "id": 145, "pregunta": "小腸を構成するのはどれか？（３つ選択）", "imagen": "images/q145.png", "seleccionar": 3, "opciones": ["十二指腸", "盲腸", "結腸", "空腸", "回腸"], "correcta": ["十二指腸", "空腸", "回腸"] },
+  { "id": 146, "pregunta": "小腸の働きはどれか？（２つ選択）", "imagen": "images/q146.png", "seleccionar": 2, "opciones": ["食物の一時貯蔵", "粥状食物のさらなる消化", "ペプシンによる消化", "消化された食物の吸収"], "correcta": ["粥状食物のさらなる消化", "消化された食物の吸収"] },
+  { "id": 147, "pregunta": "矢印で示した器官の名称は？", "imagen": "images/q147.png", "seleccionar": 1, "opciones": ["咽頭", "食道", "胃", "十二指腸", "空腸"], "correcta": "十二指腸" },
+  { "id": 148, "pregunta": "胆汁と膵液が流れ込む器官はどれか？", "imagen": "images/q148.png", "seleccionar": 1, "opciones": ["咽頭", "食道", "胃", "十二指腸", "空腸"], "correcta": "十二指腸" },
+  { "id": 149, "pregunta": "総胆管と膵管が十二指腸に開く部位の名称はどれか？", "imagen": "images/q149.png", "seleccionar": 1, "opciones": ["大十二指腸乳頭", "小十二指腸乳頭", "有郭乳頭"], "correcta": "大十二指腸乳頭" },
+  { "id": 150, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q150.png", "seleccionar": 1, "opciones": ["肺間膜", "虫垂間膜", "腸間膜", "肝鎌状間膜"], "correcta": "腸間膜" },
+
+
+  { "id": 151, "pregunta": "空腸・回腸を腹腔内にぶら下げている構造は何か？", "imagen": "", "seleccionar": 1, "opciones": ["肺間膜", "虫垂間膜", "腸間膜", "肝鎌状間膜"], "correcta": "腸間膜" },
+  { "id": 152, "pregunta": "小腸の構造はどれか？（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["輪状ヒダ", "腸絨毛", "結腸ヒモ", "結腸膨起", "結腸半月ヒダ"], "correcta": ["輪状ヒダ", "腸絨毛"] },
+  { "id": 153, "pregunta": "大腸を構成するのはどれか？（３つ選択）", "imagen": "", "seleccionar": 3, "opciones": ["空腸", "回腸", "盲腸", "結腸", "直腸"], "correcta": ["盲腸", "結腸", "直腸"] },
+  { "id": 154, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q154.png", "seleccionar": 1, "opciones": ["盲腸", "虫垂", "上行結腸", "横行結腸", "直腸"], "correcta": "盲腸" },
+  { "id": 155, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q155.png", "seleccionar": 1, "opciones": ["盲腸", "虫垂", "上行結腸", "横行結腸", "直腸"], "correcta": "虫垂" },
+  { "id": 156, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q156.png", "seleccionar": 1, "opciones": ["盲腸", "虫垂", "回盲弁", "結腸半月ヒダ", "直腸"], "correcta": "回盲弁" },
+  { "id": 157, "pregunta": "大腸の働きはどれか？（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["食物の一時貯蔵", "粥状食物のさらなる消化", "ペプシンによる消化", "固形状の糞便の形成", "水分のさらなる吸収"], "correcta": ["固形状の糞便の形成", "水分のさらなる吸収"] },
+  { "id": 158, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q158.png", "seleccionar": 1, "opciones": ["盲腸", "上行結腸", "横行結腸", "下行結腸", "S状結腸"], "correcta": "上行結腸" },
+  { "id": 159, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q159.png", "seleccionar": 1, "opciones": ["盲腸", "上行結腸", "横行結腸", "下行結腸", "S状結腸"], "correcta": "横行結腸" },
+  { "id": 160, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q160.png", "seleccionar": 1, "opciones": ["盲腸", "上行結腸", "横行結腸", "下行結腸", "S状結腸"], "correcta": "下行結腸" },
+  { "id": 161, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q161.png", "seleccionar": 1, "opciones": ["盲腸", "上行結腸", "横行結腸", "下行結腸", "S状結腸"], "correcta": "S状結腸" },
+  { "id": 162, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q162.png", "seleccionar": 1, "opciones": ["上行結腸", "横行結腸", "下行結腸", "S状結腸", "直腸"], "correcta": "直腸" },
+  { "id": 163, "pregunta": "矢印で示した構造の名称は？", "imagen": "images/q163.png", "seleccionar": 1, "opciones": ["輪状ヒダ", "腹膜垂", "結腸ヒモ", "結腸膨起", "結腸半月ヒダ"], "correcta": "結腸ヒモ" },
+  { "id": 164, "pregunta": "矢印で示した構造の名称は？", "imagen": "images/q164.png", "seleccionar": 1, "opciones": ["輪状ヒダ", "腹膜垂", "結腸ヒモ", "結腸膨起", "結腸半月ヒダ"], "correcta": "結腸膨起" },
+  { "id": 165, "pregunta": "矢印で示した臓器の名称は？", "imagen": "images/q165.png", "seleccionar": 1, "opciones": ["胃", "食道", "膵臓", "肝臓", "脾臓"], "correcta": "肝臓" },
+
+  { "id": 166, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q166.png", "seleccionar": 1, "opciones": ["右葉", "左葉", "方形葉", "尾状葉", "肝門"], "correcta": "右葉" },
+  { "id": 167, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q167.png", "seleccionar": 1, "opciones": ["右葉", "左葉", "方形葉", "尾状葉", "肝門"], "correcta": "左葉" },
+  { "id": 168, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q168.png", "seleccionar": 1, "opciones": ["右葉", "左葉", "方形葉", "尾状葉", "肝門"], "correcta": "尾状葉" },
+  { "id": 169, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q169.png", "seleccionar": 1, "opciones": ["右葉", "左葉", "方形葉", "尾状葉", "肝門"], "correcta": "方形葉" },
+  { "id": 170, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q170.png", "seleccionar": 1, "opciones": ["右葉", "左葉", "方形葉", "尾状葉", "肝門"], "correcta": "肝門" },
+  { "id": 171, "pregunta": "下図のような肝臓を構成する単位を何というか？", "imagen": "images/q171.png", "seleccionar": 1, "opciones": ["グリソン鞘", "肝小葉", "肝門", "三つ組", "中心静脈"], "correcta": "肝小葉" },
+  { "id": 172, "pregunta": "肝小葉の中心を通る矢印で示した管は何か？", "imagen": "images/q172.png", "seleccionar": 1, "opciones": ["毛細胆管", "洞様毛細血管", "中心静脈", "門脈", "グリソン鞘"], "correcta": "中心静脈" },
+  { "id": 173, "pregunta": "成人の肝臓の作用はどれか？（該当すべて）(4)", "imagen": "", "seleccionar": 4, "opciones": ["代謝機能", "造血機能", "解毒・排泄機能", "胆汁の産生", "貯蔵機能"], "correcta": ["代謝機能", "解毒・排泄機能", "胆汁の産生", "貯蔵機能"] },
+  { "id": 174, "pregunta": "成人の肝臓の作用はどれか？（該当すべて）", "imagen": "", "seleccionar": 3, "opciones": ["胆汁の濃縮", "アルブミンの生成", "グリコーゲンの合成・分解", "膵液の産生"], "correcta": ["アルブミンの生成", "グリコーゲンの合成・分解"] },
+  { "id": 175, "pregunta": "肝臓に血流を送り込む血管はどれか？（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["門脈", "(固有)肝動脈", "肝静脈"], "correcta": ["門脈", "(固有)肝動脈"] },
+  { "id": 176, "pregunta": "肝臓を栄養する血管はどれか？", "imagen": "", "seleccionar": 1, "opciones": ["門脈", "(固有)肝動脈", "肝静脈"], "correcta": "(固有)肝動脈" },
+  { "id": 177, "pregunta": "消化管からの静脈血をあつめて肝臓に運ぶ血管はどれか？", "imagen": "", "seleccionar": 1, "opciones": ["門脈", "(固有)肝動脈", "肝静脈"], "correcta": "門脈" },
+  { "id": 178, "pregunta": "矢印で示した器官の名称は？", "imagen": "images/q178.png", "seleccionar": 1, "opciones": ["胃", "腎臓", "膵臓", "回腸", "胆嚢"], "correcta": "胆嚢" },
+  { "id": 179, "pregunta": "十二指腸乳頭に開口するのはどれか？（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["膵管", "肝管", "胆嚢管", "総胆管"], "correcta": ["膵管", "総胆管"] },
+  { "id": 180, "pregunta": "膵臓のランゲルハンス島から分泌されるのは？（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["インスリン", "ガストリン", "グルカゴン", "セクレチン"], "correcta": ["インスリン", "グルカゴン"] },
+
+
+
+  { "id": 181, "pregunta": "タンパク質，脂肪，糖質を分解する酵素をすべて含むのはどれ？", "imagen": "", "seleccionar": 1, "opciones": ["唾液", "胃液", "胆汁", "膵液"], "correcta": "膵液" },
+  { "id": 182, "pregunta": "膵液のpHはどの範囲か？", "imagen": "", "seleccionar": 1, "opciones": ["酸性", "中性", "アルカリ性"], "correcta": "アルカリ性" },
+  { "id": 183, "pregunta": "膵臓の働きはどれか？（３つ選択）", "imagen": "", "seleccionar": 3, "opciones": ["栄養素の代謝", "有害物質の解毒", "膵液の分泌", "消化酵素の分泌", "インスリン・グルカゴンの分泌"], "correcta": ["膵液の分泌", "消化酵素の分泌", "インスリン・グルカゴンの分泌"] },
+  { "id": 184, "pregunta": "ホルモンと分泌する細胞の組合せで正しいのは（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["グルカゴン -- 膵島のA(α)細胞", "グルカゴン -- 膵島のB(β)細胞", "インスリン -- 膵島のA(α)細胞", "インスリン -- 膵島のB(β)細胞"], "correcta": ["グルカゴン -- 膵島のA(α)細胞", "インスリン -- 膵島のB(β)細胞"] },
+  { "id": 185, "pregunta": "ホルモンとその作用の組合せで正しいのは（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["インスリン -- 血糖値を上昇", "インスリン -- 血糖値を下降", "グルカゴン -- 血糖値を上昇", "グルカゴン -- 血糖値を下降"], "correcta": ["インスリン -- 血糖値を下降", "グルカゴン -- 血糖値を上昇"] },
+  { "id": 186, "pregunta": "矢印で示した動脈の名称とそれが栄養する臓器は何か？", "imagen": "images/q186.png", "seleccionar": 1, "opciones": ["腹腔動脈", "上腸間膜動脈", "腎臓", "胃・肝臓", "空腸・回腸"], "correcta": "胃・肝臓" },
+  { "id": 187, "pregunta": "矢印で示した動脈の名称とそれが栄養する臓器は何か？", "imagen": "images/q187.png", "seleccionar": 1, "opciones": ["上腸間膜動脈", "下腸間膜動脈", "胃・肝臓", "空腸・回腸", "結腸後半"], "correcta": "空腸・回腸" },
+  { "id": 188, "pregunta": "矢印で示した動脈の名称とそれが栄養する臓器は何か？", "imagen": "images/q188.png", "seleccionar": 1, "opciones": ["上腸間膜動脈", "下腸間膜動脈", "胃・肝臓", "空腸・回腸", "結腸後半"], "correcta": "結腸後半" },
+  { "id": 189, "pregunta": "矢印で示した静脈の名称は？", "imagen": "images/q189.png", "seleccionar": 1, "opciones": ["門脈", "脾静脈", "上腸間膜静脈", "下腸間膜静脈", "下大静脈"], "correcta": "門脈" },
+  { "id": 190, "pregunta": "矢印で示した静脈の名称は？", "imagen": "images/q190.png", "seleccionar": 1, "opciones": ["門脈", "脾静脈", "上腸間膜静脈", "下腸間膜静脈", "下大静脈"], "correcta": "下大静脈" },
+  { "id": 191, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q191.png", "seleccionar": 1, "opciones": ["直腸子宮窩", "膀胱子宮窩", "小網", "大網", "腸間膜"], "correcta": "大網" },
+  { "id": 192, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q192.png", "seleccionar": 1, "opciones": ["大網", "小網", "直腸子宮窩", "直腸膀胱窩", "膀胱子宮窩"], "correcta": "小網" },
+  { "id": 193, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q193.png", "seleccionar": 1, "opciones": ["直腸子宮窩", "膀胱子宮窩", "直腸膀胱窩", "大網", "腸間膜"], "correcta": "直腸子宮窩" },
+  { "id": 194, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q194.png", "seleccionar": 1, "opciones": ["直腸子宮窩", "膀胱子宮窩", "直腸膀胱窩", "大網", "腸間膜"], "correcta": "直腸膀胱窩" },
+  { "id": 195, "pregunta": "腹膜後器官はどれか？（４つ選択）", "imagen": "", "seleccionar": 4, "opciones": ["十二指腸", "膵臓", "肝臓", "上行結腸", "腎臓"], "correcta": ["十二指腸", "膵臓", "上行結腸", "腎臓"] },
+
+  { "id": 196, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q196.png", "seleccionar": 1, "opciones": ["鼻腔", "咽頭", "喉頭", "口腔", "気管"], "correcta": "鼻腔" },
+  { "id": 197, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q197.png", "seleccionar": 1, "opciones": ["鼻腔", "咽頭", "喉頭", "口腔", "気管"], "correcta": "咽頭" },
+  { "id": 198, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q198.png", "seleccionar": 1, "opciones": ["鼻腔", "咽頭", "喉頭", "口腔", "気管"], "correcta": "喉頭" },
+  { "id": 199, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q199.png", "seleccionar": 1, "opciones": ["咽頭", "喉頭", "気管", "気管支", "肺"], "correcta": "気管" },
+  { "id": 200, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q200.png", "seleccionar": 1, "opciones": ["咽頭", "喉頭", "気管", "気管支", "肺"], "correcta": "気管支" },
+  { "id": 201, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q201.png", "seleccionar": 1, "opciones": ["咽頭", "喉頭", "気管", "気管支", "肺"], "correcta": "肺" },
+  { "id": 202, "pregunta": "上気道に属するのはどれか？（３つ選択）", "imagen": "", "seleccionar": 3, "opciones": ["鼻腔", "咽頭", "喉頭", "気管", "気管支"], "correcta": ["鼻腔", "咽頭", "喉頭"] },
+  { "id": 203, "pregunta": "下気道に属するのはどれか？（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["鼻腔", "咽頭", "喉頭", "気管", "気管支"], "correcta": ["気管", "気管支"] },
+  { "id": 204, "pregunta": "鼻腔を左右に分ける構造は？", "imagen": "", "seleccionar": 1, "opciones": ["鼻前庭", "固有鼻腔", "上鼻道", "鼻中隔"], "correcta": "鼻中隔" },
+  { "id": 205, "pregunta": "鼻涙管の開口する位置はどれ？", "imagen": "", "seleccionar": 1, "opciones": ["上鼻道", "中鼻道", "下鼻道", "総鼻道"], "correcta": "下鼻道" },
+  { "id": 206, "pregunta": "副鼻腔はどれか？（４つ選択）", "imagen": "", "seleccionar": 4, "opciones": ["前頭洞", "上顎洞", "篩骨洞", "乳突蜂巣", "蝶形骨洞"], "correcta": ["前頭洞", "上顎洞", "篩骨洞", "蝶形骨洞"] },
+  { "id": 207, "pregunta": "矢印で示した副鼻腔の名称は？", "imagen": "images/q207.png", "seleccionar": 1, "opciones": ["前頭洞", "上顎洞", "篩骨洞", "蝶形骨洞"], "correcta": "上顎洞" },
+  { "id": 208, "pregunta": "矢印で示した副鼻腔の名称は？", "imagen": "images/q208.png", "seleccionar": 1, "opciones": ["前頭洞", "上顎洞", "篩骨洞", "蝶形骨洞"], "correcta": "前頭洞" },
+  { "id": 209, "pregunta": "食物と空気の両方の通路となっているのはどれか？", "imagen": "", "seleccionar": 1, "opciones": ["鼻腔", "咽頭", "喉頭", "食道", "気管"], "correcta": "咽頭" },
+  { "id": 210, "pregunta": "耳管咽頭口（耳管が開口する部位）があるのは？", "imagen": "", "seleccionar": 1, "opciones": ["咽頭鼻部", "咽頭喉頭部", "口腔", "喉頭"], "correcta": "咽頭鼻部" }
+
 
 ]
