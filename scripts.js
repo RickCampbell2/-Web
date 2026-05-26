@@ -3,7 +3,7 @@ let questions = [];
 let currentQuestion;
 let previousQuestionId = null;
 let minQuestion = 1;
-let maxQuestion = 210;
+let maxQuestion = 255;
 
 const minRange =
   document.getElementById("min-range");
