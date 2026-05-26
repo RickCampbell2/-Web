@@ -1751,7 +1751,7 @@
  { "id": 107, "pregunta": "口腔から肛門への向きで正しい順で並んでいるのはどれか？", "imagen": "images/q107.png", "seleccionar": 1, "opciones": ["A→B→D→E→C", "A→B→E→C→D", "E→A→B→C→D", "E→A→B→D→C", "C→D→A→E→B"], "correctas": ["C→D→A→E→B"] },
  { "id": 108, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q108.png", "seleccionar": 1, "opciones": ["腎臓", "肝臓", "胆嚢", "膵臓", "脾臓"], "correctas": ["肝臓"] } ,
   { "id": 109, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q109.png", "seleccionar": 1, "opciones": ["腎臓", "肝臓", "胆嚢", "膵臓", "脾臓"], "correctas": ["膵臓"] },
-  { "id": 110, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q110.png", "seleccionar": 1, "opciones": ["腎臓", "肝臓", "胆嚢", "膵臓", "脾臓"], "correctas": "胆嚢" },
+  { "id": 110, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q110.png", "seleccionar": 1, "opciones": ["腎臓", "肝臓", "胆嚢", "膵臓", "脾臓"], "correctas": ["胆嚢"] },
    { "id": 111, "pregunta": "食べ物を咀嚼して破壊し，唾液と混ぜ合わせる部位は？", "imagen": "", "seleccionar": 1, "opciones": ["口腔", "咽頭", "食道", "胃", "十二指腸"], "correctas": ["口腔"] },
      { "id": 112, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q112.png", "seleccionar": 1, "opciones": ["舌", "口蓋帆", "口蓋垂", "口蓋扁桃", "口腔前庭"], "correctas": ["口蓋垂"] },
        { "id": 113, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q113.png", "seleccionar": 1, "opciones": ["舌", "口蓋帆", "口蓋垂", "口蓋扁桃", "口腔前庭"], "correctas": ["口蓋扁桃"] },
