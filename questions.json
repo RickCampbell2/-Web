@@ -1797,7 +1797,6 @@
   { "id": 149, "pregunta": "総胆管と膵管が十二指腸に開く部位の名称はどれか？", "imagen": "images/q149.png", "seleccionar": 1, "opciones": ["大十二指腸乳頭", "小十二指腸乳頭", "有郭乳頭"], "correctas": ["大十二指腸乳頭"] },
   { "id": 150, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q150.png", "seleccionar": 1, "opciones": ["肺間膜", "虫垂間膜", "腸間膜", "肝鎌状間膜"], "correctas": ["腸間膜"] },
 
-
   { "id": 151, "pregunta": "空腸・回腸を腹腔内にぶら下げている構造は何か？", "imagen": "", "seleccionar": 1, "opciones": ["肺間膜", "虫垂間膜", "腸間膜", "肝鎌状間膜"], "correctas": ["腸間膜"] },
   { "id": 152, "pregunta": "小腸の構造はどれか？（２つ選択）", "imagen": "", "seleccionar": 2, "opciones": ["輪状ヒダ", "腸絨毛", "結腸ヒモ", "結腸膨起", "結腸半月ヒダ"], "correctas": ["輪状ヒダ", "腸絨毛"] },
   { "id": 153, "pregunta": "大腸を構成するのはどれか？（３つ選択）", "imagen": "", "seleccionar": 3, "opciones": ["空腸", "回腸", "盲腸", "結腸", "直腸"], "correctas": ["盲腸", "結腸", "直腸"] },
@@ -2223,6 +2222,23 @@
     "seleccionar": 1,
     "opciones": ["腎臓", "副腎", "尿管", "尿道", "膀胱"],
     "correctas": ["腎臓"]
-  }
+  },
+
+{ "id": 256, "pregunta": "矢印で示した器官はどれか？", "imagen": "images/q256.png", "seleccionar": 1, "opciones": ["腎臓", "副腎", "尿管", "尿道", "膀胱"], "correctas": ["膀胱"] },
+  { "id": 257, "pregunta": "矢印で示した器官はどれか？", "imagen": "images/q257.png", "seleccionar": 1, "opciones": ["腎臓", "副腎", "尿管", "尿道", "膀胱"], "correctas": ["尿管"] },
+  { "id": 258, "pregunta": "矢印で示した器官はどれか？", "imagen": "images/q258.png", "seleccionar": 1, "opciones": ["腎臓", "副腎", "尿管", "尿道", "膀胱"], "correctas": ["尿道" ]},
+  { "id": 259, "pregunta": "矢印で示した器官はどれか？", "imagen": "images/q259.png", "seleccionar": 1, "opciones": ["腎臓", "副腎", "尿管", "尿道", "膀胱"], "correctas": ["腎臓"] },
+  { "id": 260, "pregunta": "矢印で示した器官はどれか？", "imagen": "images/q260.png", "seleccionar": 1, "opciones": ["腎臓", "副腎", "尿管", "尿道", "膀胱"], "correctas": ["腎臓" ]},
+  { "id": 261, "pregunta": "矢印で示した部位はどれか？", "imagen": "images/q261.png", "seleccionar": 1, "opciones": ["腎筋膜", "腎盂", "腎杯", "腎門", "腎皮質"], "correctas":[ "腎門"] },
+  { "id": 262, "pregunta": "腎臓に関して正しいのはどれか？（該当すべて）", "imagen": "", "seleccionar": 3, "opciones": ["右腎は左腎より低位にある", "左腎は右腎より低位にある", "腎臓は腹膜におおわれている", "腎臓は腹膜後器官のひとつである", "腎静脈は腎門から出入りする"], "correctas": ["右腎は左腎より低位にある", "腎臓は腹膜後器官のひとつである", "腎静脈は腎門から出入りする"] },
+  { "id": 263, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q263.png", "seleccionar": 1, "opciones": ["腎錐体", "腎皮質", "腎乳頭", "小腎杯", "腎盂"], "correctas": ["腎皮質"] },
+  { "id": 264, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q264.png", "seleccionar": 1, "opciones": ["腎錐体", "腎皮質", "腎乳頭", "小腎杯", "腎盂"], "correctas":[ "腎錐体"] },
+  { "id": 265, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q265.png", "seleccionar": 1, "opciones": ["腎錐体", "腎皮質", "腎乳頭", "小腎杯", "腎盂"], "correctas": ["腎乳頭"] },
+  { "id": 266, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q266.png", "seleccionar": 1, "opciones": ["腎錐体", "腎皮質", "腎乳頭", "小腎杯", "腎盂"], "correctas": ["小腎杯"] },
+  { "id": 267, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q267.png", "seleccionar": 1, "opciones": ["腎錐体", "腎皮質", "腎乳頭", "小腎杯", "腎盂"], "correctas": ["腎盂"] },
+  { "id": 268, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q268.png", "seleccionar": 1, "opciones": ["腎門", "腎動脈", "腎静脈", "尿管", "尿道"], "correctas": ["尿道"] },
+  { "id": 269, "pregunta": "腎乳頭に開口するのはどれか？", "imagen": "", "seleccionar": 1, "opciones": ["腎小体", "ヘンレ係蹄", "近位尿細管", "遠位尿細管", "集合管"], "correctas": ["集合管"] },
+  { "id": 270, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q270.png", "seleccionar": 1, "opciones": ["集合管", "近位尿細管", "遠位尿細管", "ヘンレループ", "腎小体"], "correctas": ["腎小体"] }
+
 
 ]
