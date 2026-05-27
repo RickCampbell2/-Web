@@ -2236,7 +2236,7 @@
   { "id": 265, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q265.png", "seleccionar": 1, "opciones": ["腎錐体", "腎皮質", "腎乳頭", "小腎杯", "腎盂"], "correctas": ["腎乳頭"] },
   { "id": 266, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q266.png", "seleccionar": 1, "opciones": ["腎錐体", "腎皮質", "腎乳頭", "小腎杯", "腎盂"], "correctas": ["小腎杯"] },
   { "id": 267, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q267.png", "seleccionar": 1, "opciones": ["腎錐体", "腎皮質", "腎乳頭", "小腎杯", "腎盂"], "correctas": ["腎盂"] },
-  { "id": 268, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q268.png", "seleccionar": 1, "opciones": ["腎門", "腎動脈", "腎静脈", "尿管", "尿道"], "correctas": ["尿道"] },
+  { "id": 268, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q268.png", "seleccionar": 1, "opciones": ["腎門", "腎動脈", "腎静脈", "尿管", "尿道"], "correctas": ["尿管"] },
   { "id": 269, "pregunta": "腎乳頭に開口するのはどれか？", "imagen": "", "seleccionar": 1, "opciones": ["腎小体", "ヘンレ係蹄", "近位尿細管", "遠位尿細管", "集合管"], "correctas": ["集合管"] },
   { "id": 270, "pregunta": "矢印で示した部位の名称は？", "imagen": "images/q270.png", "seleccionar": 1, "opciones": ["集合管", "近位尿細管", "遠位尿細管", "ヘンレループ", "腎小体"], "correctas": ["腎小体"] }
 
